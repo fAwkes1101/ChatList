@@ -37,7 +37,10 @@ h2{
     align-content: center;
 
 }
-
+.btn-danger{
+    padding: 18px;
+    font-size: 20px;
+}
 .ks-messenger {
     margin: auto;
     margin-top: 50px;
