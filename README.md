@@ -1,5 +1,5 @@
 # ChatList
-LRU Chache Implementation  
+LRU Cache Implementation  
                                                                                                                             
 ⮞ Approach.                                                                                                                             
  • The idea is very basic that keep inserting the elements at the head.  
